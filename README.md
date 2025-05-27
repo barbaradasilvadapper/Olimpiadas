@@ -12,7 +12,6 @@ Tecnologias utilizadas:
 HTML: Estruturação da página.
 CSS: Estilização visual.
 JavaScript: Lógica de programação e interação com o usuário.
-Como utilizar:
 
 
 Dados: Os dados dos atletas são armazenados no arquivo dados.js.
