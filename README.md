@@ -7,13 +7,11 @@ Funcionalidades:
 Pesquisa: Permite realizar buscas por nome de atleta ou esporte, exibindo os resultados de forma clara e organizada.
 Informações detalhadas: Apresenta dados relevantes sobre cada atleta, como modalidade, conquistas e outras informações relevantes.
 Interface intuitiva: Desenvolvida com foco na usabilidade, facilitando a navegação e a busca por informações.
+
 Tecnologias utilizadas:
-
-HTML: Estruturação da página.
-
-CSS: Estilização visual.
-
-JavaScript: Lógica de programação e interação com o usuário.
+- HTML: Estruturação da página.
+- CSS: Estilização visual.
+- JavaScript: Lógica de programação e interação com o usuário.
 
 
 Dados: Os dados dos atletas são armazenados no arquivo dados.js.
