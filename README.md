@@ -15,7 +15,9 @@ Tecnologias utilizadas:
 
 
 Dados: Os dados dos atletas são armazenados no arquivo dados.js.
+
 Estilização: A estilização da página é definida no arquivo style.css.
+
 Lógica: A lógica da aplicação está no arquivo app.js.
 
 Autor:
