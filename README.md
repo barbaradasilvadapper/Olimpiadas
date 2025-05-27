@@ -10,7 +10,9 @@ Interface intuitiva: Desenvolvida com foco na usabilidade, facilitando a navega�
 Tecnologias utilizadas:
 
 HTML: Estruturação da página.
+
 CSS: Estilização visual.
+
 JavaScript: Lógica de programação e interação com o usuário.
 
 
